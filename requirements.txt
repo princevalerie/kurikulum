@@ -1,0 +1,8 @@
+streamlit
+langchain
+langgraph  
+google-generativeai
+pytube
+requests
+beautifulsoup4
+youtube-data-api
